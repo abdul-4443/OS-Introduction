@@ -12,4 +12,4 @@ Most solutions are written in **C/C++**. To run them, you will need `gcc` and a 
 ---
 ### 🔗 Other Pillars
 Check out my other core CS repositories:
-[Operating Systems](link-to-os) | [Artificial Intelligence](link-to-ai) | [Databases](link-to-db)
+[Operating Systems](https://github.com/abdul-4443/OS-Internals-Practice) | [Artificial Intelligence](https://github.com/abdul-4443/Intelligence-Architect) | [Databases](https://github.com/abdul-4443/Query-Mastery)

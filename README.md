@@ -1,2 +1,11 @@
-# OS-Internals-Practice
-A comprehensive collection of problems and implementations covering process scheduling, memory management, file systems, and concurrency.
+# 💻 Operating Systems Lab
+
+A collection of system-level problems and implementations focusing on how software interacts with hardware.
+
+### 🛠 Topics Covered
+* **Process Management:** Scheduling, Concurrency, and Deadlocks.
+* **Memory:** Paging, Segmentation, and Virtual Memory.
+* **Storage:** File System implementation and Disk Scheduling.
+
+### 🚀 Getting Started
+Most solutions are written in **C/C++**. To run them, you will need `gcc` and a Linux-based environment (or WSL).
